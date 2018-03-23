@@ -1,0 +1,35 @@
+body {
+	background-color: #5499D3;
+}
+
+
+
+
+
+h1 {
+  font-family: cursive;
+  font-size: 75px;
+  text-align: center;
+
+}
+
+img {
+	width: 60px;
+	height: 60px;
+	float: left;
+}
+
+ul {
+	float: left;
+	 list-style-type: none;
+}
+
+li {
+	display: inline;
+	margin: 20px;
+border: solid;
+font-size: 30px;
+}
+
+
+
