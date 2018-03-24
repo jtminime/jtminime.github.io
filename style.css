@@ -1,20 +1,20 @@
 
 body {
-background-color: #89E1DF;
+	background-color: #fff;
 }
 
+#nav {
+	background-color: #DECBCC;
+	position: fixed;
+	width: 100%;
+ 	top:0px;
+ 	left: 0px;
+}
 
 #title {
-  font-family: cursive;
-  font-size: 75px;
-  text-align: center;
-
-}
-
-img {
-	width: 60px;
-	height: 60px;
-	float: left;
+	font-family: cursive;
+	font-size: 75px;
+	text-align: center;
 }
 
 ul {
@@ -24,97 +24,55 @@ ul {
 
 li {
 	display: inline;
-margin: 20px;
-border: solid;
-font-size: 30px;
-
+	margin: 20px;
 }
 
-
-
-
-.top {
-background-color: #F3BF6A
+.headings {
+	text-align: center;
+	font-size: 45px;
+	font-family: cursive;
 }
 
+.pictures {
+	width: 400px;
+	height: 300px;
+	border-radius: 25px;
+}
 
-#bahamasPic {
-	width: 93%;
-	height: 350px;
-	padding: 50px;
+.description {
+	font-size: 20px;
+	text-align: center;
 }
 
 #bahamas {
-	font-size: 60px;
-	padding: 50px;
-	font-family: cursive;
-	text-align: center;
-	color: black;
-}
-
-p {
-	font-size: 35px;
-	text-align: center;
-}
-
-
-
-
-.middle1 {
-
+	background-color: #80E79C;
 }
 
 #italy {
-	text-align: center;
-	font-size: 60px;
-	font-family: cursive;
-}
-
-#italyPic {
-		width: 93%;
-	height: 350px;
-	padding: 50px;
-}
-
-
-
-.middle2 {
-
+	background-color: #EEE27C;
 }
 
 #greece {
-		text-align: center;
-	font-size: 60px;
-	font-family: cursive;
+	background-color: #EE8A90;
 }
 
-#greecePic {
-			width: 93%;
-	height: 350px;
-	padding: 50px;
-}
+#home-icon {
+	width: 50px; 
+	height: 50px;
 }
 
+.p_d {
+	display: flex; 
+	flex-direction: row; 
+	justify-content: center; 
+	align-items: center
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#list {
+   position:absolute;
+   top:0;
+   right:0;
+}
 
 
 

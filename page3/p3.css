@@ -3,9 +3,6 @@ body {
 }
 
 
-
-
-
 h1 {
   font-family: cursive;
   font-size: 75px;
@@ -21,14 +18,14 @@ img {
 
 ul {
 	float: left;
-	 list-style-type: none;
+	list-style-type: none;
 }
 
 li {
 	display: inline;
 	margin: 20px;
-border: solid;
-font-size: 30px;
+	border: solid;
+	font-size: 30px;
 }
 
 
