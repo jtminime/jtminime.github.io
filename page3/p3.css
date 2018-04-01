@@ -16,16 +16,15 @@ img {
 	float: left;
 }
 
+
 ul {
-	float: left;
-	list-style-type: none;
+	 list-style-type: none;
+	 margin: 20px;
 }
 
 li {
 	display: inline;
 	margin: 20px;
-	border: solid;
-	font-size: 30px;
 }
 
 

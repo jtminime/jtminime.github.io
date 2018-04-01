@@ -46,14 +46,17 @@ li {
 
 #bahamas {
 	background-color: #80E79C;
+	border-radius: 25px;
 }
 
 #italy {
 	background-color: #EEE27C;
+	border-radius: 25px;
 }
 
 #greece {
 	background-color: #EE8A90;
+	border-radius: 25px;
 }
 
 #home-icon {
